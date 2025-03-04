@@ -10,11 +10,11 @@ This project is designed to automatically summarize YouTube video transcripts, m
 - **User-Friendly Interface** – Simple execution in Jupyter Notebook for easy experimentation.  
 
 ## 📂 Project Structure  
-- ** `video summarizer.ipynb`** – Contains the entire implementation.  
+- ** `Youtube_Transcript_Summarizer.ipynb`** – Contains the entire implementation.  
 - **`README.md`** – Provides documentation on how to use the project.  
 
 ## 🚀 How to Use  
-1. Open the Jupyter Notebook.  
+1. Open the Google Colab Notebook.  
 2. Input the YouTube video URL for which you need a summary.  
 3. Run the notebook to retrieve the transcript and generate a summary.  
 4. View the extracted summary and key points from the video.  
