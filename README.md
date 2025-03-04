@@ -10,7 +10,7 @@ This project is designed to automatically summarize YouTube video transcripts, m
 - **User-Friendly Interface** – Simple execution in Jupyter Notebook for easy experimentation.  
 
 ## 📂 Project Structure  
-- ** `Youtube_Transcript_Summarizer.ipynb`** – Contains the entire implementation.  
+- **`Youtube_Transcript_Summarizer.ipynb`** – Contains the entire implementation.  
 - **`README.md`** – Provides documentation on how to use the project.  
 
 ## 🚀 How to Use  
